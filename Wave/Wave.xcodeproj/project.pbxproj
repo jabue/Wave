@@ -14,7 +14,6 @@
 		2F52A48C1BEADDF70095414F /*  Form.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F52A4881BEADDF70095414F /*  Form.png */; };
 		2F52A48D1BEADDF70095414F /* SigupButton1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F52A4891BEADDF70095414F /* SigupButton1.png */; };
 		2FDEEE041BE83FA9001B671D /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDEEE031BE83FA9001B671D /* SignUpView.swift */; };
-		2FDEEE071BE8432F001B671D /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FDEEE061BE8432F001B671D /* Background.png */; };
 		2FDEEE0A1BE8441A001B671D /* Rectangle 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FDEEE091BE8441A001B671D /* Rectangle 1.png */; };
 		2FDEEE111BE84983001B671D /* Back Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FDEEE0F1BE84983001B671D /* Back Button.png */; };
 		2FDEEE121BE84983001B671D /* Signup.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FDEEE101BE84983001B671D /* Signup.png */; };
@@ -69,7 +68,6 @@
 		2F52A4881BEADDF70095414F /*  Form.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = " Form.png"; sourceTree = "<group>"; };
 		2F52A4891BEADDF70095414F /* SigupButton1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SigupButton1.png; sourceTree = "<group>"; };
 		2FDEEE031BE83FA9001B671D /* SignUpView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
-		2FDEEE061BE8432F001B671D /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = images/signupImg/Background.png; sourceTree = "<group>"; };
 		2FDEEE091BE8441A001B671D /* Rectangle 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 1.png"; path = "images/signupImg/Signup Bar/Signup/Rectangle 1.png"; sourceTree = "<group>"; };
 		2FDEEE0F1BE84983001B671D /* Back Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Back Button.png"; path = "images/signupImg/Signup Bar/Back Button.png"; sourceTree = "<group>"; };
 		2FDEEE101BE84983001B671D /* Signup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Signup.png; path = "images/signupImg/Signup Bar/Signup.png"; sourceTree = "<group>"; };
@@ -160,7 +158,6 @@
 				2FDEEE0F1BE84983001B671D /* Back Button.png */,
 				2FDEEE101BE84983001B671D /* Signup.png */,
 				2FDEEE091BE8441A001B671D /* Rectangle 1.png */,
-				2FDEEE061BE8432F001B671D /* Background.png */,
 			);
 			name = imges;
 			sourceTree = "<group>";
@@ -400,7 +397,6 @@
 				ECBB485A1BE7EDA700709D34 /* Background.png in Resources */,
 				ECBB48601BE7EDA700709D34 /* Signup Button.png in Resources */,
 				ECBB485B1BE7EDA700709D34 /* Status Bar.png in Resources */,
-				2FDEEE071BE8432F001B671D /* Background.png in Resources */,
 				ECBB48221BE7E1F900709D34 /* Assets.xcassets in Resources */,
 				ECBB48201BE7E1F900709D34 /* Main.storyboard in Resources */,
 				2F52A48C1BEADDF70095414F /*  Form.png in Resources */,
